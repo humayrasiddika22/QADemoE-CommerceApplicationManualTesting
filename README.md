@@ -1,1 +1,1 @@
-# QADemoE-CommerceApplicationManualTesting
+# QADemo E-Commerce Application Manual Testing
